@@ -1,0 +1,36 @@
+header{
+    background-color: #E5E5E5;
+}
+
+#fotoBruce{
+    text-align: center;
+}
+
+#titulo_ppal{
+    text-align: center;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+.subtitulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    
+}
+
+footer{
+    background-color:  #005677;
+    text-align: center;
+    width: 1440px;
+    height: 37px;
+}
+
+#direccion{
+    color: white;
+    font-weight: bold;
+    margin-top: 9px;
+}
+
+.alineacion{
+    margin-top: 10px;
+}
