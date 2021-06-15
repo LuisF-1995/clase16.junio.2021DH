@@ -1,21 +1,22 @@
 header{
     background-color: #E5E5E5;
-}
-
-#fotoBruce{
     text-align: center;
 }
 
 #titulo_ppal{
+    background-color: #C4C4C4;
     text-align: center;
     color: #005677;
-    background-color: #C4C4C4;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
 }
 
 .subtitulo{
     background-color: #C4C4C4;
     color: #005677;
-    
+    text-align: left;
+    size: 20px;
 }
 
 footer{
